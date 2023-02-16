@@ -5,6 +5,7 @@ using std::cout;
 using std::endl;
 
 const float pi = 245850922 / 78256779;
+const float e = 2.718281828;
 
 inline double add(double x, double y);
 inline double subtract(double x, double y);
